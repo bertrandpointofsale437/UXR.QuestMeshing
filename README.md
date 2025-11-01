@@ -28,11 +28,13 @@ This package was designed for Unity 6.0 and above. Built and tested in Unity 6.2
 2. Select the `+` icon and `Add package from git URL...`
 3. Paste the UPM branch URL and press enter:
     - `https://github.com/Uralstech/UXR.QuestMeshing.git#upm`
+4. Check the instructions for [`Utils.Singleton`](https://uralstech.github.io/Utils.Singleton) to install the dependency
 
 ### GitHub Clone
 
 1. Clone or download the repository from the desired branch (master, preview/unstable)
 2. Drag the package folder `UXR.QuestMeshing/UXR.QuestMeshing/Packages/com.uralstech.uxr.questmeshing` into your Unity project's `Packages` folder
+3. Check the instructions for [`Utils.Singleton`](https://uralstech.github.io/Utils.Singleton) to install the dependency
 
 ## Preview Versions
 
