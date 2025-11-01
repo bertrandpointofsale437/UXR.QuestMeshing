@@ -3,9 +3,9 @@
     {
       "src": [
         {
-          "src": "../PackageName",
+          "src": "../UXR.QuestMeshing",
           "files": [
-            "Packages/com.uralstech.package-name/Runtime/**/*.cs"
+            "Packages/com.uralstech.uxr.questmeshing/Runtime/**/*.cs"
           ]
         }
       ],
@@ -39,9 +39,9 @@
       "modern"
     ],
     "globalMetadata": {
-      "_appName": "PackageName",
-      "_appTitle": "PackageName",
-      "_appFooter": "(C) 2025 URAV ADVANCED LEARNING SYSTEMS PRIVATE LIMITED, licensed under the <a href=\"https://github.com/Uralstech/PackageName/blob/master/LICENSE\">Apache License, Version 2.0</a>.",
+      "_appName": "UXR.QuestMeshing",
+      "_appTitle": "UXR.QuestMeshing",
+      "_appFooter": "(C) 2025 URAV ADVANCED LEARNING SYSTEMS PRIVATE LIMITED, licensed under the <a href=\"https://github.com/Uralstech/UXR.QuestMeshing/blob/master/LICENSE\">Apache License, Version 2.0</a>.",
       "_enableSearch": true
     },
     "fileMetadata": {
@@ -59,7 +59,7 @@
       }
     },
     "sitemap": {
-      "baseUrl": "https://uralstech.github.io/PackageName",
+      "baseUrl": "https://uralstech.github.io/UXR.QuestMeshing",
       "priority": 1.0,
       "changefreq": "monthly"
     }
